@@ -7,6 +7,11 @@
   <name>Archetype - Uebung_7_teamwork</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+    <url>
+      https://github.com/MihajloIlijic/Uebung_7_teamwork.git
+    </url>
+  </scm>
 
   <developers>
     <developer>
@@ -17,9 +22,9 @@
      
 
     <developer>
-      <id> </id>
-      <name> </name>
-      <email> </email>
+      <id>mihajlo-ilijic</id>
+      <name>Mihajlo Ilijic</name>
+      <email>mihajlo.ilijic@edu.fh-joanneum.at</email>
     </developer>
 
     <developer>
